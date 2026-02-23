@@ -1,0 +1,28 @@
+Return-Path: <security-alert@micr0soft-support.com>
+Received: from mail.micr0soft-support.com (185.203.116.24)
+    by mx.google.com with ESMTPS id x12si938274qke.123.2026.02.22
+    for <user@gmail.com>;
+    Sat, 22 Feb 2026 10:12:45 -0800 (PST)
+Received-SPF: fail (google.com: domain of security-alert@micr0soft-support.com does not designate 185.203.116.24 as permitted sender)
+Authentication-Results: mx.google.com;
+    spf=fail;
+    dkim=none;
+    dmarc=fail (p=REJECT sp=NONE dis=NONE) header.from=micr0soft-support.com
+From: Microsoft Security Team <security-alert@micr0soft-support.com>
+Reply-To: support@account-verification-alert.com
+To: user@gmail.com
+Subject: Urgent: Account Suspension Notice
+Date: Sat, 22 Feb 2026 18:12:40 +0000
+Message-ID: <4839204832@mail.micr0soft-support.com>
+
+Dear User,
+
+We detected unusual sign-in activity on your Microsoft account.
+Your account will be suspended within 24 hours unless verified.
+
+Verify immediately:
+http://microsoft-account-verify-secure.com/login
+
+Failure to act will result in permanent account closure.
+
+Microsoft Security Team
