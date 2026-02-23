@@ -1,0 +1,27 @@
+Return-Path: <hr-department@company-payroll-update.org>
+Received: from unknown (45.77.214.190)
+    by mail.company.com with ESMTP id l29si883772lkd.22.2026.02.22
+    for <employee@company.com>;
+    Sat, 22 Feb 2026 11:03:55 -0800 (PST)
+Received-SPF: fail (company.com: domain of hr-department@company-payroll-update.org does not designate 45.77.214.190 as permitted sender)
+Authentication-Results: mail.company.com;
+    spf=fail;
+    dkim=none;
+    dmarc=fail (p=REJECT) header.from=company-payroll-update.org
+From: HR Department <hr-department@company-payroll-update.org>
+Reply-To: payroll-support@salary-update-alert.com
+To: employee@company.com
+Subject: Salary Revision Notice – Action Required
+Date: Sat, 22 Feb 2026 19:03:50 +0000
+Message-ID: <992384723984723@company-payroll-update.org>
+
+Hello,
+
+We have updated the payroll structure for this quarter.
+Review your revised salary breakdown immediately.
+
+Access document:
+http://employee-salary-update-secure.com/login
+
+Regards,
+HR Team
