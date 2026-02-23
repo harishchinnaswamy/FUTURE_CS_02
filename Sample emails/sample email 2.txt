@@ -1,0 +1,29 @@
+Return-Path: <alerts@hdfc-secure-banking.net>
+Received: from hdfc-secure-banking.net (103.145.67.89)
+    by mx.google.com with SMTP id k18si772811pjb.87.2026.02.22
+    for <customer@email.com>;
+    Sat, 22 Feb 2026 09:42:18 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning alerts@hdfc-secure-banking.net does not designate 103.145.67.89 as permitted sender)
+Authentication-Results: mx.google.com;
+    spf=softfail;
+    dkim=fail;
+    dmarc=fail (p=QUARANTINE) header.from=hdfc-secure-banking.net
+From: HDFC Bank <alerts@hdfc-secure-banking.net>
+Reply-To: noreply@secure-auth-confirmation.com
+To: customer@email.com
+Subject: Immediate OTP Verification Required
+Date: Sat, 22 Feb 2026 17:42:10 +0000
+Message-ID: <928374982374@hdfc-secure-banking.net>
+
+Dear Customer,
+
+Your recent transaction was flagged as suspicious.
+To avoid account freeze, confirm your OTP immediately.
+
+Click below:
+http://secure-hdfc-authenticate.com/verify
+
+Failure to verify within 2 hours will result in temporary suspension.
+
+Thank you,
+HDFC Bank Security
