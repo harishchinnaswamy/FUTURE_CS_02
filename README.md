@@ -24,7 +24,7 @@ Three phishing scenarios were analyzed:
 2. Bank OTP Verification (MFA Bypass Attempt)
 3. Payroll Update Notification (Corporate Impersonation)
 
-Each email was examined using a structured SOC triage workflow.
+Each email was examined using a structured SOC triage workflow
 
 ---
 
@@ -140,8 +140,6 @@ This project demonstrates practical understanding of:
 - Threat triage workflow
 - Risk-based classification
 - Human-factor exploitation in phishing campaigns
-
-The methodology aligns with real SOC Level 1 email investigation processes.
 
 ---
 
