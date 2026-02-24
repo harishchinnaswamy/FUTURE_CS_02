@@ -2,7 +2,7 @@
 # Phishing Email Detection & Awareness System  
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 This project simulates real-world Security Operations Center (SOC) email threat analysis. The objective was to investigate suspected phishing emails by performing header analysis, domain authentication validation, and risk classification based on technical and behavioral indicators.
 
@@ -16,7 +16,7 @@ The project focuses on detecting:
 
 ---
 
-## 🔍 Scope of Analysis
+##  Scope of Analysis
 
 Three phishing scenarios were analyzed:
 
@@ -44,7 +44,7 @@ Used to extract full RFC-compliant raw headers for detailed forensic inspection.
 
 ---
 
-## 🧪 Technical Analysis Approach
+##  Technical Analysis Approach
 
 The analysis followed a structured SOC investigation process:
 
@@ -117,7 +117,7 @@ Would apply if:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 Across all analyzed samples:
 
@@ -131,7 +131,7 @@ All samples were classified as **High-Risk Phishing**.
 
 ---
 
-## 🎯 SOC Relevance
+## SOC Relevance
 
 This project demonstrates practical understanding of:
 
@@ -147,7 +147,7 @@ The methodology aligns with real SOC Level 1 email investigation processes.
 
 ---
 
-## 🚀 Author
+##  Author
 
 Harish C  
 Cyber Security Intern  
