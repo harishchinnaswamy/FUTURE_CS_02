@@ -28,7 +28,7 @@ Each email was examined using a structured SOC triage workflow.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 ### 1. MXToolbox – Header Analyzer
 Used to:
@@ -82,7 +82,7 @@ Each email was categorized based on authentication failures, spoofing indicators
 
 ---
 
-## ⚠ Risk Methodology
+## Risk Methodology
 
 Risk levels were determined using combined technical and behavioral indicators.
 
